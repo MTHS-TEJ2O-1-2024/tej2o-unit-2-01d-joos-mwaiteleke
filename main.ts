@@ -5,4 +5,4 @@
  * This program Says Hello, World!
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Jp!')
